@@ -1,5 +1,4 @@
-```markdown
-# CITS2005 Java Game Project
+# Java Game Project
 
 ## 🧩 Project Overview
 
